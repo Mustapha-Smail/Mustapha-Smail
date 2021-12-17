@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 I'm **Mustapha**, a Computer Science Student at Paris Nanterre University 
 
-- 🔭 I’m currently working on: a Fullstack projet with the MERN Stack 
+- 🔭 I’m currently working on: a Fullstack project with the MERN Stack 
 - 🌱 I’m currently learning: Web scrapping with python <img align="center" alt="python-logo" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 - 💬 Ask me about: Web development, Data structures
 - 📫 How to reach me: mustapha.smail@parisnanterre.fr
